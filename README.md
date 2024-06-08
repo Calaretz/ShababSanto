@@ -125,7 +125,7 @@ frontend/
 ### Contact
 Fares: faresibrahim10@gmail.com
 
-Kilani: 
+Kilani: kilani.1090@gmail.com
 
 Rimawi: aa.rimawi@gmail.com
 
