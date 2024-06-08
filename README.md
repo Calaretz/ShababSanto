@@ -39,7 +39,8 @@ A simple web application to manage contacts, built with Angular for the frontend
 ### Backend (Laravel) Setup
 
 1. Clone the repository:
-   $git clone https://github.com/Calaretz/ShababSanto.git
+   '''bash
+   git clone https://github.com/Calaretz/ShababSanto.git
    cd ShababSanto/backend
    
 2. Install dependencies:
